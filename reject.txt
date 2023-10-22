@@ -1,6 +1,5 @@
 payload:
   - '+.ecombdapi.com'
-  - '+.xmind.app'
   - '+.adstrategy.biz.weibo.com'
   - '+.brandvideo.biz.weibo.com'
   - '+.kadmimage.biz.weibo.com'
