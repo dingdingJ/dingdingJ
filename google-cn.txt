@@ -1,0 +1,6 @@
+payload:
+  - '+.connectivitycheck.gstatic.com'
+  - '+.gstatic.com'
+  - '+.update.googleapis.com'
+  - '+.googleapis.com'
+  
