@@ -3,4 +3,8 @@ payload:
   - '+.gstatic.com'
   - '+.update.googleapis.com'
   - '+.googleapis.com'
+  - '+.googleapis.cn'
+  - '+.services.googleapis.cn'
+  - '+.connectivitycheck.gstatic.com'
+  - '+.gstatic.com'
   
