@@ -1,4 +1,6 @@
 payload:
+  - '+.web-chat-e2ee.facebook.com'
+  - '+.instagram.ffec4-1.fna.fbcdn.net'
   - '+.ecombdapi.com'
   - '+.adobe.com'
   - '+.adobe.io'
