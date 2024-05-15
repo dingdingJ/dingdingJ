@@ -1,5 +1,8 @@
 payload:
   - '+.ecombdapi.com'
+  - '+.lv-biz-api-sinfonlineb.ulikecam.com'
+  - '+.ad.xiaohongshu.com'
+  - '+.whenshow.com'
   - '+.adobe.com'
   - '+.adobe.io'
   - '+.adstrategy.biz.weibo.com'
