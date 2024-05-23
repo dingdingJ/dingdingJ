@@ -1,5 +1,7 @@
 payload:
-  - '+.ecombdapi.com'
+  - '+.ecombdapi.com'、
+  - '+.jav720.net'
+  - '+.phimsexkhongche.net'
   - '+.ads.pinterest.com'
   - '+.lv-biz-api-sinfonlineb.ulikecam.com'
   - '+.ulikecam.com'
