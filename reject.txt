@@ -1,5 +1,6 @@
 payload:
   - '+.ecombdapi.com'
+  - '+.ads.pinterest.com'
   - '+.lv-biz-api-sinfonlineb.ulikecam.com'
   - '+.ulikecam.com'
   - '+.ad.xiaohongshu.com'
