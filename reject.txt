@@ -1,5 +1,6 @@
 payload:
-  - '+.ecombdapi.com'、
+  - '+.ecombdapi.com'
+  - '+.badjs.weixinbridge.com'
   - '+.jav720.net'
   - '+.phimsexkhongche.net'
   - '+.ads.pinterest.com'
