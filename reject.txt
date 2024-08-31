@@ -1,6 +1,5 @@
 payload:
   - '+.ecombdapi.com'
-  - '+.badjs.weixinbridge.com'
   - '+.findermp.video.qq.com'
   - '+.jav720.net'
   - '+.phimsexkhongche.net'
